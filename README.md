@@ -25,7 +25,7 @@ The order of representation is based on chronological history, from the history 
 ## Content Document
 ### The Palace Museum
 - History
-  The Palace Museum is housed in the Forbidden City, the Chinese imperial palace from the Ming Dynasty to the end of the Qing Dynasty. It is located in the middle of Beijing, China. For almost five centuries, it served as the home of the Emperor and his household, and the ceremonial and political centre of Chinese government. It wad built from 1406 to 1420.
+The Palace Museum is housed in the Forbidden City, the Chinese imperial palace from the Ming Dynasty to the end of the Qing Dynasty. It is located in the middle of Beijing, China. For almost five centuries, it served as the home of the Emperor and his household, and the ceremonial and political centre of Chinese government. It wad built from 1406 to 1420.
 - Collections
 According to an inventory of the Museum's collection conducted between 2004 and 2010, the Palace Museum holds a total of 1,807,558 artifacts and includes 1,684,490 items designated as nationally protected "valuable cultural relics."[19] At the end of 2016, the Palace Museum held a press conference, announcing that 55,132 previously unlisted items had been discovered in an inventory check carried out from 2014 to 2016. The total number of items in the Palace Museum collection is presently at 1,862,690 objects.
   - Ceramics
@@ -56,7 +56,7 @@ After architects Mario Bellini and Rudy Ricciotti had won an international compe
 
 ### Metropolitan Museum of Art
 - History
-  The New York State Legislature granted the Metropolitan Museum of Art an Act of Incorporation on April 13, 1870, "for the purpose of establishing and maintaining in said City a Museum and Library of Art, of encouraging and developing the Study of the Fine Arts, and the application of Art to manufacture and natural life, of advancing the general knowledge of kindred subjects, and to that end of furnishing popular instruction and recreations". This legislation was supplemented later by the 1893 Act, Chapter 476, which required that its collections "shall be kept open and accessible to the public free of all charge throughout the year." The founders included businessmen and financiers, as well as leading artists and thinkers of the day, who wanted to open a museum to bring art and art education to the American people.
+The New York State Legislature granted the Metropolitan Museum of Art an Act of Incorporation on April 13, 1870, "for the purpose of establishing and maintaining in said City a Museum and Library of Art, of encouraging and developing the Study of the Fine Arts, and the application of Art to manufacture and natural life, of advancing the general knowledge of kindred subjects, and to that end of furnishing popular instruction and recreations". This legislation was supplemented later by the 1893 Act, Chapter 476, which required that its collections "shall be kept open and accessible to the public free of all charge throughout the year." The founders included businessmen and financiers, as well as leading artists and thinkers of the day, who wanted to open a museum to bring art and art education to the American people.
 - Collections
   - Arts of Africa, Oceania, and the Americas
   - Asian art
@@ -64,5 +64,6 @@ After architects Mario Bellini and Rudy Ricciotti had won an international compe
   - European paintings
   - Contemporary art
 - Architecture
-  After negotiations with the City of New York in 1871, the Met was granted the land between the East Park Drive, Fifth Avenue, and the 79th and 85th Street transverse roads in Central Park. A red-brick and stone "mausoleum" was designed by American architect Calvert Vaux and his collaborator Jacob Wrey Mould. Vaux's ambitious building was not well received; the building's High Victorian Gothic style being considered already dated prior to completion, and the president of the Met termed the project "a mistake".
-  Within 20 years, a new architectural plan engulfing the Vaux building was already being executed. Since that time, many additions have been made, including the distinctive Beaux-Arts Fifth Avenue facade, Great Hall, and Grand Stairway. These were designed by architect and Met trustee Richard Morris Hunt, but completed by his son, Richard Howland Hunt in 1902 after his father's death. The architectural sculpture on the facade is by Karl Bitter
+After negotiations with the City of New York in 1871, the Met was granted the land between the East Park Drive, Fifth Avenue, and the 79th and 85th Street transverse roads in Central Park. A red-brick and stone "mausoleum" was designed by American architect Calvert Vaux and his collaborator Jacob Wrey Mould. Vaux's ambitious building was not well received; the building's High Victorian Gothic style being considered already dated prior to completion, and the president of the Met termed the project "a mistake".
+
+Within 20 years, a new architectural plan engulfing the Vaux building was already being executed. Since that time, many additions have been made, including the distinctive Beaux-Arts Fifth Avenue facade, Great Hall, and Grand Stairway. These were designed by architect and Met trustee Richard Morris Hunt, but completed by his son, Richard Howland Hunt in 1902 after his father's death. The architectural sculpture on the facade is by Karl Bitter
