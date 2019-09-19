@@ -1,6 +1,6 @@
 # Jialin Huo
 # Museums
-
+The Palace Museum, the Louvre, and the Met are famous museums known for their histories, popularity, special architecture, as well as precious and rare exhibitions and collections of arts.
 
 ## Ontology
 - Museum has establishment and history
@@ -22,6 +22,9 @@
 ## Choreography 
 The order of representation is based on chronological history, from the history and establishment date, listing from the earliest to the newest.
 
-The Palace Museum
-The Louvre 
-Metropolitan Museum of Art
+## Content Document
+### The Palace Museum
+
+### The Louvre 
+
+### Metropolitan Museum of Art
