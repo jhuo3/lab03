@@ -2,7 +2,7 @@
 # Museums
 The Palace Museum, the Louvre, and the Met are famous museums known for their histories, popularity, special architecture, as well as precious and rare exhibitions and collections of arts.
 
-## Ontology
+### Ontology
 - Museum has establishment and history
 - Museum exhibit various collective arts
 - Museum has special value in its architecture
